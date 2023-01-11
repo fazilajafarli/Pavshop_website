@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-18 23:31+0400\n"
+"PO-Revision-Date: 2022-09-18 23:39+0400\n"
+"Last-Translator:   <admin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: core/templates/core/index.html:49 core/templates/core/index.html:186
+msgid "The Latest Product from PAVSHOP"
+msgstr "Последний продукт от PAVSHOP"
+
+#: core/templates/core/index.html:99
+msgid "featured"
+msgstr "показанный"
+
+#: core/templates/core/index.html:124
+msgid "cycle"
+msgstr "цикл"
+
+#: core/templates/core/index.html:142
+msgid "SHOP NOW"
+msgstr "КУПИТЬ СЕЙЧАС"
+
+#: core/templates/core/index.html:211
+msgid "look beautiful"
+msgstr "выглядеть красиво"
+
+#: core/templates/core/index.html:236
+msgid "this season"
+msgstr "этот сезон"
+
+#: core/templates/core/index.html:279
+msgid "BUY NOW"
+msgstr "КУПИ СЕЙЧАС"
+
+#: core/templates/core/index.html:294
+msgid "new arrival"
+msgstr "Новое поступление"
+
+#: core/templates/core/index.html:757
+msgid "about PAVSHOP"
+msgstr "о ПАВШОП"
+
+#: core/templates/core/index.html:789
+msgid "NEWSLETTER"
+msgstr "НОВОСТНАЯ РАССЫЛКА"
+
+#: core/templates/core/index.html:797
+msgid "SEND ME"
+msgstr "ОТПРАВЬТЕ МЕНЯ"
+
+#: pavshop/settings.py:181
+msgid "English"
+msgstr ""
+
+#: pavshop/settings.py:182
+msgid "Russian"
+msgstr ""
+
+#: pavshop/settings.py:183
+msgid "Azerbaijani"
+msgstr ""
+
+#: templates/base.html:134 templates/base.html:206
+msgid "Shopping Cart"
+msgstr "Корзина покупателя"
+
+#: templates/base.html:136
+msgid "About 01"
+msgstr "О 01"
+
+#: templates/base.html:137
+msgid "About 02"
+msgstr "О 02"
+
+#: templates/base.html:138 templates/base.html:488
+msgid "Contact"
+msgstr "Контакт"
+
+#: templates/base.html:187
+msgid "Shop Pages"
+msgstr "Страницы магазина"
+
+#: templates/base.html:208 templates/base.html:502
+msgid "Checkout"
+msgstr "Проверить"
+
+#: templates/base.html:296
+msgid "NEW ARRIVAL 2016"
+msgstr "НОВОЕ ПРИБЫТИЕ 2016"
+
+#: templates/base.html:296
+msgid "Best Collection"
+msgstr "Лучшая коллекция"
+
+#: templates/base.html:316
+msgid "contact"
+msgstr "контакт"
+
+#: templates/base.html:335
+msgid "HELLO!"
+msgstr "Привет!"
+
+#: templates/base.html:337
+msgid "MY CART"
+msgstr "МОЯ ТЕЛЕЖКА"
+
+#: templates/base.html:338
+msgid "ACCOUNT INFO"
+msgstr "ИНФОРМАЦИЯ ОБ АККАУНТЕ"
+
+#: templates/base.html:339
+msgid "LOG OUT"
+msgstr "ВЫЙТИ"
+
+#: templates/base.html:399
+msgid "VIEW CART"
+msgstr "VIEW CART"
+
+#: templates/base.html:403
+msgid "CHECK OUT"
+msgstr "ПРОВЕРИТЬ"
+
+#: templates/base.html:411
+msgid "LOGIN"
+msgstr "АВТОРИЗОВАТЬСЯ"
+
+#: templates/base.html:415
+msgid "SIGNUP"
+msgstr "ЗАРЕГИСТРИРОВАТЬСЯ"
+
+#: templates/base.html:459
+msgid "Street No. 12, Newyork 12,"
+msgstr "Улица № 12, Нью-Йорк 12,"
+
+#: templates/base.html:469
+msgid "HELPFUL LINKS"
+msgstr "ПОЛЕЗНЫЕ ССЫЛКИ"
+
+#: templates/base.html:471
+msgid "Products"
+msgstr "Продукты"
+
+#: templates/base.html:472
+msgid "Find a Store"
+msgstr "Найти магазин"
+
+#: templates/base.html:473
+#, fuzzy
+#| msgid "featured"
+msgid "Features"
+msgstr "показанный"
+
+#: templates/base.html:474
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: templates/base.html:477
+msgid "Press Kit "
+msgstr "Пресс-кит"
+
+#: templates/base.html:485
+msgid "About Us"
+msgstr "О нас"
+
+#: templates/base.html:486
+msgid "Career"
+msgstr "Карьера"
+
+#: templates/base.html:487
+msgid "Shipping Methods"
+msgstr "Методы доставки"
+
+#: templates/base.html:489
+msgid "Support"
+msgstr "Поддерживать"
+
+#: templates/base.html:490
+msgid "Retailer"
+msgstr "розничный продавец"
+
+#: templates/base.html:498
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: templates/base.html:499
+msgid "My Account"
+msgstr "Мой счет"
+
+#: templates/base.html:500
+msgid "My Cart"
+msgstr "Моя тележка"
+
+#: templates/base.html:508
+msgid "PAVSHOP All right reserved."
+msgstr "PAVSHOP Все права защищены."
